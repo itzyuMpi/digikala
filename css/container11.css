@@ -1,0 +1,17 @@
+/* start container11 (سایر محصولات) */
+
+div.wrapper > div.container11 {
+  width: 1304px;
+  height: 421px;
+  margin: 20px auto;
+  border: 1px solid #95a5a6;
+  border-radius: 10px;
+}
+
+div.wrapper > div.container11 > div {
+  display: inline-block;
+  width: 322.5px;
+  height: 420px;
+}
+
+/* end container11 (سایر محصولات) */

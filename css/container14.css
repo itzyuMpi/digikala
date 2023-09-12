@@ -1,0 +1,180 @@
+/* start container14 (منتخب محصولات تخفیف و حراج) */
+
+div.wrapper > div.container14 {
+  width: 1304px;
+  height: 838px;
+  margin: 20px auto;
+  border: 1px solid #e0e0e6;
+  border-radius: 10px;
+}
+
+div.wrapper > div.container14 > div.con14-up {
+  width: 100%;
+  height: 76px;
+  text-align: center;
+}
+
+div.wrapper > div.container14 > div.con14-up > p {
+  font-size: 23px;
+  font-family: sans2;
+  line-height: 76px;
+}
+
+div.wrapper > div.container14 > div.con14-up > p > i {
+  font-size: 19px;
+  color: #ef4056;
+  margin-left: 10px;
+  position: relative;
+  top: 2px;
+}
+
+div.wrapper > div.container14 > div.con14-bottom {
+  width: 100%;
+  height: 729px;
+  text-align: center;
+  margin-top: 23px;
+  cursor: pointer;
+}
+
+div.wrapper > div.container14 > div.con14-bottom > div.con14-div {
+  width: 100%;
+  height: 245px;
+  text-align: center;
+}
+
+div.wrapper > div.container14 > div.con14-bottom > div.con14-div > div {
+  display: inline-block;
+  vertical-align: top;
+  width: 213px;
+  height: 100%;
+  border-right: 1px solid #e0e0e6;
+  text-align: center;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div:nth-last-of-type(1) {
+  border: none;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div
+  > div:nth-of-type(1) {
+  width: 100%;
+  height: 154px;
+  text-align: center;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div
+  > div:nth-of-type(1)
+  > img {
+  width: 150px;
+  height: 150px;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div:nth-of-type(2)
+  > div
+  > div:nth-of-type(1) {
+  margin-top: 7px;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div:nth-of-type(3)
+  > div
+  > div:nth-of-type(1) {
+  margin-top: 7px;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div
+  > div:nth-of-type(2) {
+  width: 100%;
+  height: 35px;
+  text-align: left;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div
+  > div:nth-of-type(2)
+  > p {
+  display: inline-block;
+  vertical-align: top;
+  line-height: 35px;
+  font-family: sans;
+  color: #3f4064;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div
+  > div:nth-of-type(2)
+  > p:nth-of-type(1) {
+  margin-left: 15px;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div
+  > div:nth-of-type(2)
+  > p:nth-of-type(3) {
+  display: inline;
+  font-size: 12px;
+  font-family: sans;
+  color: white;
+  padding: 1px 7px;
+  background-color: #ef4056;
+  border-radius: 12px;
+  margin-left: 90px;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div
+  > div:nth-of-type(3) {
+  width: 100%;
+  height: 26px;
+  text-align: left;
+}
+
+div.wrapper
+  > div.container14
+  > div.con14-bottom
+  > div.con14-div
+  > div
+  > div:nth-of-type(3)
+  > p {
+  font-family: sans2;
+  line-height: 26px;
+  font-size: 12px;
+  text-decoration: line-through;
+  color: #c3c3ce;
+  margin-left: 35px;
+}
+
+/* end container14 (منتخب محصولات تخفیف و حراج) */

@@ -1,0 +1,97 @@
+/* start container8 (محصولات مربوطه تکنولوژی) */
+
+div.wrapper > div.container8 {
+  width: 1304px;
+  height: 430px;
+  margin: 0 auto;
+  border: 0.5px solid #e0e0e6;
+  border-radius: 10px;
+  margin-top: 25px;
+}
+
+div.wrapper > div.container8 > div {
+  display: inline-block;
+  width: 322px;
+  height: 429px;
+}
+
+div.wrapper > div.container8 > div:nth-of-type(1),
+div.wrapper > div.container8 > div:nth-of-type(2) {
+  border-right: 1px solid #e0e0e6;
+}
+
+div.wrapper > div.container8 > div:nth-of-type(4) {
+  border-left: 1px solid #e0e0e6;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(1) {
+  width: 100%;
+  height: fit-content;
+  direction: rtl;
+  padding-right: 22px;
+  padding-top: 15px;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(1) > h4 {
+  font-family: sans2;
+  color: #23254e;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(1) > p {
+  color: #767790;
+  font-family: sans2;
+  font-size: 11px;
+  margin-top: 10px;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(2) {
+  width: 100%;
+  height: 294.75px;
+  direction: ltr;
+  text-align: center;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(2) > div {
+  display: inline-block;
+  vertical-align: top;
+  width: 141px;
+  height: 146px;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(2) > div:nth-of-type(1),
+div.wrapper > div.container8 > div > div:nth-of-type(2) > div:nth-of-type(3) {
+  width: 145px;
+  border-right: 1px solid #e0e0e6;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(2) > div > img {
+  width: 125.88px;
+  height: 125.88px;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(2) > div:nth-of-type(4),
+div.wrapper > div.container8 > div > div:nth-of-type(2) > div:nth-of-type(3) {
+  padding-top: 9px;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(3) {
+  width: 100%;
+  height: fit-content;
+  text-align: center;
+  margin-top: 5px;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(3) > a {
+  font-family: sans2;
+  font-size: 12.5px;
+  color: #19bfd3;
+}
+
+div.wrapper > div.container8 > div > div:nth-of-type(3) > a > i {
+  font-size: 12px;
+  margin-right: 6px;
+}
+
+/* end container8 (محصولات مربوطه تکنولوژی) */

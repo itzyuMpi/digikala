@@ -1,0 +1,189 @@
+/* start container2 (شگفت انگیز سوپرمارکتی) */
+
+div.wrapper > div.container2 {
+  width: 1304px;
+  height: 110px;
+  margin: 15px auto;
+  background-image: url(../img/container2/bg.svg);
+  background-repeat: no-repeat;
+  background-color: #eef1f0;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+div.wrapper > div.container2 > div {
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) {
+  width: 54%;
+  height: inherit;
+  text-align: left;
+  margin-left: 40px;
+  position: relative;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div {
+  display: inline-block;
+  vertical-align: top;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 20px 3px;
+  overflow: hidden;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(1) {
+  width: 144px;
+  height: 50px;
+  border-radius: 40px;
+  margin-top: 30px;
+  text-align: center;
+  line-height: 50px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(1) > p {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 13px;
+  font-family: sans2;
+  color: #39ae00;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(1) > i {
+  color: #39ae00;
+  margin-right: 8px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div > div {
+  background-color: #ef394e;
+  padding: 0px 7px;
+  border-radius: 20px;
+  position: absolute;
+  top: 70px;
+  left: 195px;
+  z-index: 50;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div > div > p {
+  font-size: 12.5px;
+  color: white;
+  font-family: sans;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(2) {
+  padding: 8px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(2) > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(3) {
+  padding: 8px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(3) > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(3) > div {
+  left: 275px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(4) {
+  padding: 8px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(4) > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(4) > div {
+  left: 355px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(5) {
+  padding: 8px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(5) > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(5) > div {
+  left: 435px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(6) {
+  padding: 8px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(6) > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(6) > div {
+  left: 515px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(7) {
+  padding: 8px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(7) > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(1) > div:nth-of-type(7) > div {
+  left: 595px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(2) {
+  width: auto;
+  height: inherit;
+  text-align: right;
+  margin-left: 45px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(2) > p {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 15px;
+  font-family: sans2;
+  background-color: #39ae00;
+  color: white;
+  border-radius: 20px;
+  padding: 3px 17px;
+  margin-right: 10px;
+  margin-top: 40px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(2) > img:nth-of-type(2) {
+  width: 66px;
+  height: 66px;
+  position: relative;
+  top: calc(50% - 66px / 2);
+  right: -20px;
+}
+
+div.wrapper > div.container2 > div:nth-of-type(2) > img:nth-of-type(1) {
+  width: 250px;
+  height: 28px;
+}
+
+/* end container2 (شگفت انگیز سوپرمارکتی) */

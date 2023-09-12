@@ -1,0 +1,76 @@
+/* start container6 (محبوب ترین برند ها) */
+
+div.wrapper > div.container6 {
+  width: 1304px;
+  height: 225px;
+  margin: 20px auto;
+  text-align: center;
+  border: 1px solid #e0e0e6;
+  border-radius: 20px;
+}
+
+div.wrapper > div.container6 > div.container6-up {
+  width: 1304px;
+  height: 45px;
+  margin: 20px 0 10px 0;
+  text-align: center;
+}
+
+div.wrapper > div.container6 > div.container6-up > div {
+  display: inline-block;
+  width: 165px;
+  height: 45px;
+  border-radius: 20px;
+}
+
+div.wrapper > div.container6 > div.container6-up > div > p {
+  display: inline-block;
+  vertical-align: top;
+  font-family: sans2;
+  font-size: 20px;
+  white-space: nowrap;
+}
+
+div.wrapper > div.container6 > div.container6-up > div > p > i {
+  font-size: 17px;
+  font-weight: 600;
+  margin-left: 8px;
+  color: #f9bc00;
+}
+
+div.wrapper > div.container6 > div.container6-bottom {
+  width: 1302px;
+  height: 110px;
+  text-align: center;
+  direction: rtl;
+}
+
+div.con6-slide1 {
+  width: 142px;
+  height: 118px;
+  text-align: center;
+  border-left: 1px solid #e0e0e6;
+}
+
+div.con6-slide1 > img {
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+div.con6-slide19 {
+  width: 142px;
+  height: 118px;
+  text-align: center;
+  border: none;
+}
+
+div.con6-slide19 > img {
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+/* end container6 (محبوب ترین برند ها) */

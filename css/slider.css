@@ -1,0 +1,22 @@
+/* start slider */
+
+div.wrapper > div.slider {
+  width: 100%;
+  height: 400px;
+  background-color: #ed1b37;
+  direction: rtl;
+  margin-top: 30px;
+}
+
+div.swiper-slide > div.slide-img {
+  width: 100%;
+  height: 400px;
+  cursor: pointer;
+}
+
+div.swiper-slide > div.slide-img > img {
+  width: 100%;
+  height: 100%;
+}
+
+/* end slider */

@@ -1,0 +1,44 @@
+/* start story */
+
+div.wrapper > div.story {
+  width: 1350;
+  height: 120px;
+  margin: 10px 20px;
+  text-align: center;
+}
+
+div.wrapper > div.story > div {
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.wrapper > div.story > div > div.img {
+  display: inline-block;
+  width: 77px;
+  height: 77px;
+  margin: 10px 35px;
+  padding: 3px;
+  border: 2px solid #ee384e;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+div.wrapper > div.story > div > div.img > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+div.wrapper > div.story > div > div.text {
+  width: 100%;
+  height: 20px;
+}
+
+div.wrapper > div.story > div > div.text > a {
+  font-family: sans;
+  font-size: 13px;
+  color: #333352;
+}
+
+/* end story */

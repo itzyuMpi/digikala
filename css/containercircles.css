@@ -1,0 +1,48 @@
+/* start containercircles */
+
+div.wrapper > div.first-circle {
+  width: 1305px;
+  height: auto;
+  margin: 30px auto;
+  margin-bottom: 60px;
+  text-align: center;
+  direction: rtl;
+}
+
+div.wrapper > div.first-circle > div {
+  display: inline-block;
+  vertical-align: top;
+  width: auto;
+  height: 55px;
+  margin: 0px 45px;
+  border-radius: 50%;
+  text-align: center;
+  cursor: pointer;
+}
+
+div.wrapper > div.first-circle > div > img {
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+
+div.wrapper > div.first-circle > div > p {
+  font-family: sans2;
+  white-space: nowrap;
+  font-size: 11.5px;
+  margin-top: 3px;
+}
+
+div.wrapper > div.first-circle > div:nth-last-of-type(1) {
+  background-color: #f1f2f4;
+}
+
+div.wrapper > div.first-circle > div:nth-last-of-type(1) > i {
+  width: 55px;
+  height: 55px;
+  font-size: 22px;
+  line-height: 55px;
+  color: #9e9fb1;
+}
+
+/* end containercircles */

@@ -1,0 +1,84 @@
+/* start containeroffer (پیشنهاد دیجیگالا) */
+div.wrapper > div.title-offer {
+  width: 215px;
+  height: 45px;
+  margin: 0 auto;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+div.wrapper > div.title-offer > p {
+  font-family: sans2;
+  line-height: 45px;
+  font-size: 22px;
+  white-space: nowrap;
+}
+
+div.wrapper > div.offer {
+  width: fit-content;
+  height: 309.19px;
+  border: 1px solid #e0e0e6;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: 25px;
+  text-align: center;
+  cursor: pointer;
+}
+
+div.wrapper > div.offer > div {
+  display: inline-block;
+  vertical-align: top;
+  width: 182.81px;
+  height: 100%;
+  border-right: 1px solid #e0e0e6;
+}
+
+div.wrapper > div.offer > div:nth-last-of-type(1) {
+  border: none;
+}
+
+div.wrapper > div.offer > div > div {
+  width: 103%;
+  height: 50%;
+  padding-top: 18px;
+}
+
+div.wrapper > div.offer > div > div > div:nth-of-type(1) {
+  width: 84px;
+  height: 84px;
+  margin: 0 auto;
+  padding-top: 12px;
+  background-color: #e0e0e6;
+  border-radius: 50%;
+}
+
+div.wrapper > div.offer > div > div > div:nth-of-type(1) > img {
+  width: 60px;
+  height: 60px;
+}
+
+div.wrapper > div.offer > div:nth-last-of-type(1) > div {
+  width: 100%;
+}
+
+div.wrapper > div.offer > div > div:nth-of-type(1) {
+  border-bottom: 1px solid #e0e0e6;
+}
+
+div.wrapper > div.offer > div > div > div:nth-of-type(2) {
+  width: fit-content;
+  height: fit-content;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+div.wrapper > div.offer > div > div > div:nth-of-type(2) > p {
+  display: inline-block;
+  vertical-align: top;
+  font-family: sans2;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+/* end containeroffer (پیشنهاد دیجیگالا) */
